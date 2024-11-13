@@ -7,7 +7,7 @@ export default function HomeSection(){
   {/* Text Section */}
   <div className="max-w-4xl text-center md:text-left relative">
     <h1 className="text-4xl md:text-5xl font-bold">
-      Hi, I'm <span className="text-[#00ADB5]">Mahnoor Shaikh</span>
+      Hi, I&rsquo;m <span className="text-[#00ADB5]">Mahnoor Shaikh</span>
     </h1>
     <div className="relative w-full md:w-80 mx-auto md:mx-0">
       <h3 className="text-3xl font-bold text-[#00ADB5]">Frontend Developer</h3>

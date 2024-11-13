@@ -72,7 +72,7 @@ export default function Education(){
             <div className="text-[1.5rem] text-[#00ADB5] pb-[0.5rem] flex items-center">
               <i className="bx bxs-calendar pr-[0.5rem]"></i>05-2023 - 09-2023
             </div>
-            <h3 className="text-[1.3rem] text-[#00ADB5]">Accountant - Mother’s Lap School System, Hyderabad</h3>
+            <h3 className="text-[1.3rem] text-[#00ADB5]">Accountant - Mother&rsquo;s Lap School System, Hyderabad</h3>
             <p className="text-[1.1rem] pt-[0.5rem]">
               Managed financial transactions, prepared statements, and ensured compliance with accounting standards.
             </p>

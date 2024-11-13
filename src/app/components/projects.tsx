@@ -15,7 +15,7 @@ export default function Projects(){
               <Image src={half} alt="project1" className="w-full h-[400px] rounded-lg object-cover transform transition duration-500"/>
               <h3 className="text-[#00ADB5] text-lg font-semibold">Figma Website to HTML</h3>
               <p className="text-gray-300 mt-3">
-                I'm excited to share that I recently completed a Figma design as part of a hackathon project by focusing on accurately recreating layouts and user interface.
+                I&rsquo;m excited to share that I recently completed a Figma design as part of a hackathon project by focusing on accurately recreating layouts and user interface.
               </p>
               <button className="mt-5 px-4 py-2 bg-[#00ADB5] text-white font-semibold rounded hover:bg-[#222831] hover:text-[#00ADB5] transition duration-300 hover:outline-2 hover:outline-[#00ADB5] hover:outline">
                 <a href="https://figma-design1-hackathon-assignment6.vercel.app/" target="_blank">View Project</a>
@@ -27,7 +27,7 @@ export default function Projects(){
               <Image src={half1} alt="project2" className="w-full h-[400px] rounded-lg object-cover transform transition duration-500"/>
               <h3 className="text-[#00ADB5] text-lg font-semibold">Blogging Website</h3>
               <p className="text-gray-300 mt-3">
-                I'm thrilled to showcase my latest project - a blogging website that showcases my skills in web development. I aimed to create an exceptional user experience.
+                I&rsquo;m thrilled to showcase my latest project - a blogging website that showcases my skills in web development. I aimed to create an exceptional user experience.
               </p>
               <button className="mt-5 px-4 py-2 bg-[#00ADB5] text-white font-semibold rounded hover:bg-[#222831] hover:text-[#00ADB5] transition duration-300 hover:outline-2 hover:outline-[#00ADB5] hover:outline">
                 <a href="https://cards-blogs-responsive-website-assignment4-5.vercel.app/" target="_blank">View Project</a>
