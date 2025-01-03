@@ -2,7 +2,7 @@ export default function Footer(){
     return(
         <footer className="flex flex-col md:flex-row justify-between items-center p-8 px-[9%] bg-[#222831]">
   <div className="mb-4 md:mb-0">
-    <p className="text-xl text-center md:text-left">Copyright &copy; Nov, 2024 by Mahnoor Shaikh</p>
+    <p className="text-xl text-center md:text-left">Copyright &copy; 2024 by Sheeraz Jogi</p>
   </div>
 
   <div className="flex justify-center md:justify-end space-x-4">

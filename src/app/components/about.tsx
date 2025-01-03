@@ -1,5 +1,5 @@
 import Image from "next/image";
-import profile from "@/app/image/mahnoor.jpg"
+import profile from "@/app/image/sheeraz.jpg"
 
 export default function About(){
     return(
@@ -13,8 +13,8 @@ export default function About(){
   <div className="text-center mt-5">
     <h3 className="text-[2rem] text-[#00ADB5]">Know Who Am I?</h3>
     <p className="text-[1.2rem] my-[1rem] mx-auto w-[80%] sm:w-[70%] md:w-[60%]">
-      I am Mahnoor, an IT Professional with a Master&rsquo;s degree in Information
-      Technology from Sindh Agriculture University, Tandojam. Now, I&rsquo;m
+      I am Sheeraz, an IT Professional with a intermediate&rsquo; degree in Information
+      Technology from superior science college, khairpur. Now, I&rsquo;m
       studying an advanced course in Web 3.0, Metaverse, and GenAI at the Governor
       House. I create websites that are easy to use, look great, and work
       well on all devices. Let&rsquo;s work together to create something amazing!
